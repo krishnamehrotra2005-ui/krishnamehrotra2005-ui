@@ -7,9 +7,9 @@
 <br/>
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=krishnamehrotra2005-ui&color=52B788&style=flat-square&label=Profile+Views)
-
-</div>
 -->
+</div>
+
 <br/>
 
 ---
@@ -22,7 +22,7 @@ Krishna = {
     "cgpa"      : 7.88,
     "interests" : ["Generative AI", "Agentic AI", "Machine Learning"],
     "open_to"   : ["Internships", "Collabs", "Research"],
-    "contact"   : "krishnamehrotra.2005@gmail.com"
+    "contact"   : "km2073@srmist.edu.in"
 }
 ```
 
