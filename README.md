@@ -22,7 +22,7 @@ Krishna = {
     "cgpa"      : 7.88,
     "interests" : ["Generative AI", "Agentic AI", "Machine Learning"],
     "open_to"   : ["Internships", "Collabs", "Research"],
-    "contact"   : "km2073@srmist.edu.in"
+    "contact"   : "krishnamehrotra.2005@gmail.com"
 }
 ```
 
